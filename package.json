@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.1",
+    "handlebars-helpers": "^0.10.0",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3"
+  }
+}
